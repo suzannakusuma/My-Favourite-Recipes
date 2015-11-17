@@ -1,0 +1,5 @@
+site_name: Alice
+pages:
+  - Home: 'index.md'
+  - About: 'about.md'
+  

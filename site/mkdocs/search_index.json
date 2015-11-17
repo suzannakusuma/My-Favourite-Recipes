@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "My Favourite Recipes\n\n\nCollection of recipes from various sources\n\n\nCategories:\n\n\n\n\nMeat\n\n\nVegetables\n\n\nBread\n\n\nCakes\n\n\nDesserts\n\n\n\n\nSee the full list of recipes at the \nList of Recipes", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#my-favourite-recipes", 
+            "text": "", 
+            "title": "My Favourite Recipes"
+        }, 
+        {
+            "location": "/#collection-of-recipes-from-various-sources", 
+            "text": "Categories:   Meat  Vegetables  Bread  Cakes  Desserts   See the full list of recipes at the  List of Recipes", 
+            "title": "Collection of recipes from various sources"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "List of recipes", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#list-of-recipes", 
+            "text": "", 
+            "title": "List of recipes"
+        }
+    ]
+}

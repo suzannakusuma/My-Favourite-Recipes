@@ -1,5 +1,5 @@
-site_name: Alice
+site_name: My favourite recipes
 pages:
   - Home: 'index.md'
+    - Cakes: 'cakes.md'
   - About: 'about.md'
-  

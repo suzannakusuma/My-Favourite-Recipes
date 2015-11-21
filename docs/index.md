@@ -6,8 +6,8 @@
 
 * Meat
 * Vegetables
+* Sauces
 * Bread
-* Cakes
-* Desserts
+* Cakes [Cakes](cakes.md)
 
 See the full list of recipes at the [List of Recipes](about.md)

@@ -1,13 +1,17 @@
-# My Favourite Recipes
+# My Favourite Recipes & Lessons
 
-## Collection of recipes from various sources
+### Collection of recipes from various sources
 
-### Categories:
+Categories:
 
 * Meat
 * Vegetables
-* Sauces
+* [Sauces](sauces.md)
 * Bread
-* Cakes [Cakes](cakes.md)
+* [Cakes](cakes.md)
 
-See the full list of recipes at the [List of Recipes](about.md)
+### Collection of Lessons a.k.a. Food for Thought
+
+*No matter how modest the meal, create a special place to sit down together and set the table with care and respect.  Savour the ritual of the table.  Mealtime is a time for empathy and generosity, a time to nourish and communicate.*
+
+Alice Waters, "Lessons from a Delicious Cooking Revolution"

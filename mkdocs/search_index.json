@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "My Favourite Recipes\n\n\nCollection of Recipes from various sources\n\n\nCategories:\n\n\n\n\nMeat\n\n\nVegetables\n\n\nSauces\n\n\nBread\n\n\nCakes\n\n\n\n\nCollection of Lessons a.k.a. Food for Thought\n\n\nNo matter how modest the meal, create a special place to sit down together and set the table with care and respect.  Savour the ritual of the table.  Mealtime is a time for empathy and generosity, a time to nourish and communicate.\n\n\nAlice Waters, \"Lessons from a Delicious Cooking Revolution\"", 
+            "text": "My Favourite Recipes\n\n\nCollection of Recipes from various sources\n\n\nCategories:\n\n\n\n\nMeat\n\n\nVegetables\n\n\nCakes\n\n\nSauces\n\n\nBread\n\n\n\n\nFood for the soul\n\n\nWhy I'm Closing Noma by Ren\u00e9 Redzepi", 
             "title": "Home"
         }, 
         {
             "location": "/#my-favourite-recipes", 
-            "text": "Collection of Recipes from various sources  Categories:   Meat  Vegetables  Sauces  Bread  Cakes   Collection of Lessons a.k.a. Food for Thought  No matter how modest the meal, create a special place to sit down together and set the table with care and respect.  Savour the ritual of the table.  Mealtime is a time for empathy and generosity, a time to nourish and communicate.  Alice Waters, \"Lessons from a Delicious Cooking Revolution\"", 
+            "text": "Collection of Recipes from various sources  Categories:   Meat  Vegetables  Cakes  Sauces  Bread   Food for the soul  Why I'm Closing Noma by Ren\u00e9 Redzepi", 
             "title": "My Favourite Recipes"
         }, 
         {
@@ -29,6 +29,11 @@
             "location": "/sauces/#sauces", 
             "text": "Vinaigrette  At its simplest, vinaigrette is a mixture of vinegar and oil in a ratio of 1 part vinegar to about 3 or 4 parts oil.  - Alice Waters   1 tbsp red wine vinegar  Salt  Freshly ground black pepper   Stir to dissolve, taste and adjust   3 to 4 tbsp extra virgin olive oil   Taste as you go  Why make vinaigrette when you can just buy?    Good vinaigrette is essentially good quality vinegar and good quality oil, which if bought separately, can be used for various other things.  Good excuse to try out different types of vinegar and oils out there,   experiment!    Once you get the hang of it, it makes the store-bought vinaigrette not worth the money.", 
             "title": "Sauces"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About me\n\n\nI am a novice cook who likes to eat a good meal that is not produced or derived harmfully.  \n\n\nNotably, it is a big challenge once one tries to establish certain boundaries, but I'm learning along the way!    \n\n\nThe rules which I try to follow:\n\n\n\n\nKnow where my food comes from, where and how it is grown\n\n\nStrive to make food that tastes good, else why bother\n\n\nIt is a myth that healthy food doesn't taste good\n\n\nLess is more   \n\n\n\n\nMy inspiration:\n\n\nEat seasonally.\nEat locally and sustainably.\nShop at farmer\u2019s markets.\nPlant a garden.\nConserve, compost and recycle.\nCook simply, engaging all your senses.\nSet the table with care and respect.\nEat together.\nFood is precious.\n\n\nAlice Waters", 
+            "title": "About"
         }
     ]
 }

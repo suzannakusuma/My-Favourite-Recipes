@@ -3,3 +3,4 @@ pages:
   - Home: 'index.md'
   - Cakes: 'cakes.md'
   - Sauces: 'sauces.md'
+  - About: 'about.md'

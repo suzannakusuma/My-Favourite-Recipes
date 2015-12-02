@@ -2,28 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "My Favourite Recipes\n\n\nCollection of recipes from various sources\n\n\nCategories:\n\n\n\n\nMeat\n\n\nVegetables\n\n\nBread\n\n\nCakes\n\n\nDesserts\n\n\n\n\nSee the full list of recipes at the \nList of Recipes", 
+            "text": "My Favourite Recipes\n\n\nCollection of Recipes from various sources\n\n\nCategories:\n\n\n\n\nMeat\n\n\nVegetables\n\n\nSauces\n\n\nBread\n\n\nCakes\n\n\n\n\nCollection of Lessons a.k.a. Food for Thought\n\n\nNo matter how modest the meal, create a special place to sit down together and set the table with care and respect.  Savour the ritual of the table.  Mealtime is a time for empathy and generosity, a time to nourish and communicate.\n\n\nAlice Waters, \"Lessons from a Delicious Cooking Revolution\"", 
             "title": "Home"
         }, 
         {
             "location": "/#my-favourite-recipes", 
-            "text": "", 
+            "text": "Collection of Recipes from various sources  Categories:   Meat  Vegetables  Sauces  Bread  Cakes   Collection of Lessons a.k.a. Food for Thought  No matter how modest the meal, create a special place to sit down together and set the table with care and respect.  Savour the ritual of the table.  Mealtime is a time for empathy and generosity, a time to nourish and communicate.  Alice Waters, \"Lessons from a Delicious Cooking Revolution\"", 
             "title": "My Favourite Recipes"
         }, 
         {
-            "location": "/#collection-of-recipes-from-various-sources", 
-            "text": "Categories:   Meat  Vegetables  Bread  Cakes  Desserts   See the full list of recipes at the  List of Recipes", 
-            "title": "Collection of recipes from various sources"
+            "location": "/cakes/", 
+            "text": "Cakes\n\n\nSimplest, Yummiest Banana Bread\n\n\neasy, no mixer required\n\n\nminimal technique required, very forgiving\n\n\n\n\n1/4 cup (57gr) butter at room temperature\n\n\n1/2 cup granulated sugar (reduce if adding chocolate)\n\n\n1 large egg\n\n\n3/4 cup flour\n\n\n1/2 tsp baking soda\n\n\n1/2 tsp salt\n\n\n1/2 cup mashed ripe bananas\n\n\n1/4 cup sour cream\n\n\n1/2 tsp vanilla extract\n\n\n1/4 to 1/2 cup chocolate chips / chopped walnut\n\n\n\n\nPreheat oven 180 degree Celcius.  Grease pan with butter.\n\n\nBeat butter and sugar till light \n fluffy.  Add egg and incorporate.\n\n\nMix all dry ingredients (flour, baking soda, salt) evenly.\n\n\nMix all dry and wet ingredients.  \n\n\nBake for 30 minutes.\n\n\n\n\nTips:\n\n\n\n\n\n\nTry different varieties of bananas for different subtlety of flavors.  \n\n\n\n\n\n\nSugar should be adjusted according to the sweetness of the bananas.\n\n\n\n\n\n\nPersonally, I will avoid 'pretty' bananas like Del Monte, and go for the less pretty ones from Malaysia/Indonesia, such as \npisang berangan\n.  \n\n\n\n\n\n\nDon't hesitate to use \nextremely ripe bananas\n.  'Bananas going bad' give you the strongest \nbanana\n flavor.", 
+            "title": "Cakes"
         }, 
         {
-            "location": "/about/", 
-            "text": "No matter how modest the meal, create a special place to sit down together and set the table with care and respect.  Savour the ritual of the table.  Mealtime is a time for empathy and generosity, a time to nourish and communicate.\n\n\nAlice Waters 'Lessons from a Delicious Cooking Revolution'  \n\n\nList of recipes", 
-            "title": "About"
+            "location": "/cakes/#cakes", 
+            "text": "Simplest, Yummiest Banana Bread  easy, no mixer required  minimal technique required, very forgiving   1/4 cup (57gr) butter at room temperature  1/2 cup granulated sugar (reduce if adding chocolate)  1 large egg  3/4 cup flour  1/2 tsp baking soda  1/2 tsp salt  1/2 cup mashed ripe bananas  1/4 cup sour cream  1/2 tsp vanilla extract  1/4 to 1/2 cup chocolate chips / chopped walnut   Preheat oven 180 degree Celcius.  Grease pan with butter.  Beat butter and sugar till light   fluffy.  Add egg and incorporate.  Mix all dry ingredients (flour, baking soda, salt) evenly.  Mix all dry and wet ingredients.    Bake for 30 minutes.   Tips:    Try different varieties of bananas for different subtlety of flavors.      Sugar should be adjusted according to the sweetness of the bananas.    Personally, I will avoid 'pretty' bananas like Del Monte, and go for the less pretty ones from Malaysia/Indonesia, such as  pisang berangan .      Don't hesitate to use  extremely ripe bananas .  'Bananas going bad' give you the strongest  banana  flavor.", 
+            "title": "Cakes"
         }, 
         {
-            "location": "/about/#list-of-recipes", 
-            "text": "", 
-            "title": "List of recipes"
+            "location": "/sauces/", 
+            "text": "Sauces\n\n\nVinaigrette\n\n\nAt its simplest, vinaigrette is a mixture of vinegar and oil in a ratio of 1 part vinegar to about 3 or 4 parts oil.\n - Alice Waters\n\n\n\n\n1 tbsp red wine vinegar\n\n\nSalt\n\n\nFreshly ground black pepper\n\n\n\n\nStir to dissolve, taste and adjust\n\n\n\n\n3 to 4 tbsp extra virgin olive oil\n\n\n\n\nTaste as you go\n\n\nWhy make vinaigrette when you can just buy?\n\n\n\n\n\n\nGood vinaigrette is essentially good quality vinegar and good quality oil, which if bought separately, can be used for various other things.  Good excuse to try out different types of vinegar and oils out there, \n experiment!\n\n\n\n\n\n\nOnce you get the hang of it, it makes the store-bought vinaigrette not worth the money.", 
+            "title": "Sauces"
+        }, 
+        {
+            "location": "/sauces/#sauces", 
+            "text": "Vinaigrette  At its simplest, vinaigrette is a mixture of vinegar and oil in a ratio of 1 part vinegar to about 3 or 4 parts oil.  - Alice Waters   1 tbsp red wine vinegar  Salt  Freshly ground black pepper   Stir to dissolve, taste and adjust   3 to 4 tbsp extra virgin olive oil   Taste as you go  Why make vinaigrette when you can just buy?    Good vinaigrette is essentially good quality vinegar and good quality oil, which if bought separately, can be used for various other things.  Good excuse to try out different types of vinegar and oils out there,   experiment!    Once you get the hang of it, it makes the store-bought vinaigrette not worth the money.", 
+            "title": "Sauces"
         }
     ]
 }

@@ -27,6 +27,8 @@ Mix all dry and wet ingredients.
 
 Bake for 30 minutes.
 
+![Banana Bread](img/bananabread.jpg)
+
 **Tips:**
 
 1. Try different varieties of bananas for different subtlety of flavors.  
